@@ -38,4 +38,4 @@ coding!
 - Teammate name #2: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
 
    ...
-- Luna Dong #4: [GitHub](https://github.com/Luna4423-arch)) / [LinkedIn]((https://www.linkedin.com/in/ling-dong-801b131aa/))
+- Luna Dong #4: [GitHub](https://github.com/Luna4423-arch)) / [LinkedIn](https://www.linkedin.com/in/ling-dong-801b131aa/))
